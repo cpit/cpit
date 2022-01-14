@@ -1,3 +1,5 @@
+**CPIT** - Chris Peters IT Software Engineering 
+
 Who I am
 - Java software engineer and freelancer from Munich/Germany
 - working with Java right from the beginning, 1998
